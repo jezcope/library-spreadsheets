@@ -76,7 +76,9 @@ Your data sheet might get very long over the course of experiment. This makes it
 
 Instead you can Freeze the column headers.
 
-[Documentation on how to freeze column headers](https://support.office.com/en-ca/article/Freeze-column-headings-for-easy-scrolling-57ccce0c-cf85-4725-9579-c5d13106ca6a)
+[Documentation on how to freeze column headers in Microsoft Excel](https://support.office.com/en-ca/article/Freeze-column-headings-for-easy-scrolling-57ccce0c-cf85-4725-9579-c5d13106ca6a)
+
+[Documentation on how to freeze column headers in LibreOffice Calc](https://help.libreoffice.org/Calc/Freezing_Rows_or_Columns_as_Headers)
 
 
 ## Not filling in zeroes {#zeros}
@@ -138,7 +140,7 @@ From White et al, 2013, [Nine simple ways to make it easier to (re)use your data
 Choose descriptive field names, but be careful not to include: spaces, numbers, or special characters of any kind. Spaces can be misinterpreted by parsers that use whitespace as delimiters and some programs don’t like field names that are text strings that start with numbers.
 Underscores (`_`) are a good alternative to spaces and consider writing names in camel-case to improve readability. Remember that abbreviations that make sense at the moment may not be so obvious in 6 months but don't overdo it with names that are excessively long. Including the units in the field names avoids confusion and enables others to readily interpret your fields.
 
-**Examples**  
+**Examples**
 
 | Good Name          | Good Alternative   | Avoid                |
 |--------------------+--------------------+----------------------|
